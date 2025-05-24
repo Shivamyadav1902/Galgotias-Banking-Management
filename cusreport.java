@@ -13,10 +13,7 @@ import java.sql.ResultSetMetaData;
 import java.util.Vector;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author parth
- */
+
 public class cusreport extends javax.swing.JInternalFrame {
 
     /**
